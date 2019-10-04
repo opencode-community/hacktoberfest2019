@@ -69,5 +69,5 @@ Ubuntu also supports full disk encryption as well as encryption of the home and 
     * <img src="13.png" alt="13">
     * <img src="14.png" alt="14">
 #### Resource: 
-*  wikipedia.com
-*  linuxconfig.org
+*  [wikipedia](wikipedia.com)
+*  [linuxconfig](linuxconfig.org)
