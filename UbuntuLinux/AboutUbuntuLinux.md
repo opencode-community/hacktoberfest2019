@@ -54,21 +54,20 @@ Ubuntu also supports full disk encryption as well as encryption of the home and 
     * the following guide may provide you with some hints on [how to boot your computer from USB flash drive](https://linuxconfig.org/install-ubuntu-from-usb-18-04-bionic-beaver) or the [CD/DVD](https://neosmart.net/wiki/booting-from-a-cd-or-dvd/) medium
 * ### Install Ubuntu
     #### step-by step guide
-    * ![1](\1.png)
-    * ![2](\2.png)
-    * ![3](\3.png)
-    * ![4](\4.png)
-    * ![5](\5.png)
-    * ![6](\6.png)
-    * ![7](\7.png)
-    * ![8](\8.png)
-    * ![9](\9.png)
-    * ![10](\10.png)
-    * ![11](\11.png)
-    * ![12](\12.png)
-    * ![13](\13.png)
-    * ![14](\14.png)
-
+    * <img src="1.png" alt="1">
+    * <img src="2.png" alt="2">
+    * <img src="3.png" alt="3">
+    * <img src="4.png" alt="4">
+    * <img src="5.png" alt="5">
+    * <img src="6.png" alt="6">
+    * <img src="7.png" alt="7">
+    * <img src="8.png" alt="8">
+    * <img src="9.png" alt="9">
+    * <img src="10.png" alt="10">
+    * <img src="11.png" alt="11">
+    * <img src="12.png" alt="12">
+    * <img src="13.png" alt="13">
+    * <img src="14.png" alt="14">
 #### Resource: 
 *  wikipedia.com
 *  linuxconfig.org
