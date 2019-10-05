@@ -8,7 +8,6 @@
 - Backend
 - Frontend
 
-
 ### Contact
 - [Github](https://github.com/apsychogirl)
 - [LinkedIn](https://linkedin.com/in/apsychogirl)
