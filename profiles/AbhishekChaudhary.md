@@ -6,6 +6,7 @@
 - Backend
 - Android
 - Frontend
+- System Design
 - Deep Learning
 
 ### Projects
