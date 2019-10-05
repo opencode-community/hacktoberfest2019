@@ -1,0 +1,23 @@
+HARSHAL KUMAR
+----
+##INFORMATION PRACTICES
+----
+######languages
+
+1.PYTHON
+
+2.C++
+
+3.JAVA
+
+4.C
+
+![languages Logo](/images/logo/.png)
+
+Format: ![Alt Text](url)
+
+http://github.com - automatic!
+
+[GitHub]
+
+
