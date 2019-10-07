@@ -10,3 +10,4 @@ All articles from issues need to be stored in the **articles** directory.
 
 A list for profiles of students participating
 1. [AbhishekChaudhary.md](./profiles/AbhishekChaudhary.md)
+2. [Bhumika Dhingra.md](./profiles/BhumikaDhingra.md)
